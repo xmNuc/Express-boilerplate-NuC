@@ -1,5 +1,7 @@
-This is template foe Express.js, mysql, uuid and connection to database. Server is starting on localhost:3001.
+This is template for Express.js, mysql, uuid, cors and connection to database. Server is starting on localhost:3001.
 
+
+#Some fit commands :)
 git flow init
 git flow feature start readme-file
 git flow feature finish readme-file
