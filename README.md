@@ -1,4 +1,4 @@
-This is template for Express.js, mysql, uuid, cors and connection to database. Server is starting on localhost:3001.
+This is boilerplate for Express.js, mysql, uuid, cors and connection to database. Server is starting on localhost:3001.
 
 
 #Some fit commands :)
