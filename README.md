@@ -1,7 +1,7 @@
 This is boilerplate for Express.js, mysql, uuid, cors and connection to database. Server is starting on localhost:3001.
 
 
-#Some fit commands :)
+#Some Git commands :)
 git flow init
 git flow feature start readme-file
 git flow feature finish readme-file
